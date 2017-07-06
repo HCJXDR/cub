@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "null",
+            "includePath": ["/usr/local/include"],
+            "defines": [],
+            "browse": {
+                "path": [],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ]
+}
