@@ -2,3 +2,6 @@ build
 .settings
 .project
 .cproject
+.DS_Store
+.vscode/*
+.idea/*
