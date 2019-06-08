@@ -15,7 +15,7 @@ CUB的编译默认使用[cmake](https://cmake.org/)，确保你的机器已经�
 在shell中执行以下命令获取及编译CUB的源码。
 
 ~~~bash
-git clone git@github.com:ccup/cub.git
+git clone git@github.com:ccock/cub.git
 cd cub
 mkdir build
 cd build
@@ -2126,5 +2126,6 @@ CUB是我们用C\++开发和重构大型电信级系统软件时积累下来的�
 
 ***
 
-> CUB的主要组件是[Thoughtworks](https://www.thoughtworks.com)咨询师[袁英杰](https://github.com/godsme)在指导我们重构两个大型电信系统软件的过程中形成的，经过补充完善现在将其独立了出来。CUB还在不断的完善中，如果发现存在错误或者有更好的建议，欢迎联系本文作者(Email：e.bowen.wang@icloud.com)。
->
+> - Author： MagicBowen 
+> - Email ： e.wangbo@gmail.com
+> - Blog  ： https://www.jianshu.com/u/92b7d9879f20
